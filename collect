@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>攝影師介紹</title>
+</head>
+<body>
+  <header>
+    <h1>攝影師介紹</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="index.html">首頁</a></li>
+      <li><a href="#">攝影作品</a></li>
+      <li><a href="#">攝影師介紹</a></li>
+      <li><a href="#">聯絡我們</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section>
+      <h2>攝影師介紹</h2>
+      <ul>
+        <li>
+          <h3>攝影師1</h3>
+          <img src="photographer1.jpg" alt="攝影師1" width="200">
+          <p>攝影師1是一位專業攝影師，擅長拍攝風景和人像照片。他的作品曾經在多個攝影比賽中獲獎。</p>
+        </li>
+        <li>
+          <h3>攝影師2</h3>
+          <img src="photographer2.jpg" alt="攝影師2" width="200">
+          <p>攝影師2是一位自學成才的攝影師，他的作品以細膩的色彩和構圖著稱，曾經在多個攝影展覽中展出。</p>
+        </li>
+        <li>
+          <h3>攝影師3</h3>
+          <img src="photographer3.jpg" alt="攝影師3" width="200">
+          <p>攝影師3是一位業餘攝影師，他的作品以紀實風格為主，曾經在多個網站和社交媒體上發佈。</p>
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>版權所有 &copy; 2023 攝影師介紹 | <a href="index.html">回首頁</a></p>
+  </footer>
+</body>
+</html>
